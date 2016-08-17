@@ -1,0 +1,1 @@
+<?php echo with(new SemanticPresenter($paginator))->render(); ?>

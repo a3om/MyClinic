@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data>
+	<client>
+	        <last_name>Тест1а</last_name>
+	        <first_name>Тест2а</first_name>
+	        <patronymic>Тест3а</patronymic>
+	        <sex>1</sex>
+	        <birthday>1980-05-09</birthday>
+	        <phone>+79501234567</phone>
+	        <description>Тест4а</description>
+	        <active>1</active>
+	        <deleted>0</deleted>
+	</client>
+	<client>
+	        <last_name>Тест1б</last_name>
+	        <first_name>Тест2б</first_name>
+	        <patronymic>Тест3б</patronymic>
+	        <sex>1</sex>
+	        <birthday>1980-05-09</birthday>
+	        <phone>+79501234568</phone>
+	        <description>Тест4б</description>
+	        <active>1</active>
+	        <deleted>0</deleted>
+	</client>
+	<client>
+	        <last_name>Тест1в</last_name>
+	        <first_name>Тест2в</first_name>
+	        <patronymic>Тест3в</patronymic>
+	        <sex>1</sex>
+	        <birthday>1980-05-09</birthday>
+	        <phone>+79501234569</phone>
+	        <description>Тест4в</description>
+	        <active>1</active>
+	        <deleted>0</deleted>
+	</client>
+</data>
